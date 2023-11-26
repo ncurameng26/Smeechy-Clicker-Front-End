@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Merriweather:ital,wght@1,300&family=Pacifico&family=Skranji&display=swap");
+
+body {}
+
+#Chips {
+    height: 300px;
+    margin: 0;
+}
+
+
+.smallerChips {
+    height: 30px;
+}
+
+img {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+header {
+    font-size: 50px;
+    font-family: 'Skranji', cursive;
+    margin: 0;
+    color: white;
+}
+
+.dataWrapperWrapper {
+    display: flex;
+
+}
+
+.dataWrapper {
+    border-top: solid;
+    height: 400px;
+    text-align: left;
+    margin: auto;
+    width: 1500px;
+
+}
+
+.dataWrapper h2 {
+    color: white;
+    font-size: 30px;
+
+}
+
+
+.item-2 {
+    border-bottom: solid;
+    display: flex;
+    text-align: left;
+    align-items: left;
+}
+
+
+.scoreboardWrapper {
+    margin-top: 10px;
+    width: 100%;
+    margin-left: 20%;
+    margin-right: 20%
+}
+
+.scoreboard {
+    background-color: #303030;
+
+
+}
+
+.dataWrapper h1 {
+    width: 100%;
+
+}
+
+.displayCookies {
+    color: white;
+}
+
+
+.item-2 {
+    padding-left: 20%;
+
+}
