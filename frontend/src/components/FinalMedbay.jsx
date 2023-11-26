@@ -39,6 +39,9 @@ const FinalMedBay = () => {
     }
 
     const buyBandageItem = () => {
+        if (numSupplies === 10) {
+            return (alert("Too many Med Supplies"))
+        }
         if (cookieSelector.numCookies >= costSupplies) {
             setNumSupplies(n => n + 1)
             setBandageList(bandageList.concat(<Bandage key={bandageList.length} />));
