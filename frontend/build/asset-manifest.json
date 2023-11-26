@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dad3994c.css",
+    "main.js": "/static/js/main.559630d3.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/bandage.gif": "/static/media/bandage.c8e8030c0ac300cca561.gif",
+    "static/media/chips.png": "/static/media/chips.757237cfbe7959b4fa5d.png",
+    "static/media/goodCropChips.png": "/static/media/goodCropChips.44cbeed9fcfdf0f2b33a.png",
+    "static/media/divineDog.gif": "/static/media/divineDog.7a52de120835b0d60c1b.gif",
+    "static/media/frog.gif": "/static/media/frog.af46a76a32d6f58753f6.gif",
+    "static/media/maxElephant.gif": "/static/media/maxElephant.d025539ec2419b525581.gif",
+    "static/media/taco.png": "/static/media/taco.de5331169e40ca0a1ec2.png",
+    "static/media/syringe.png": "/static/media/syringe.b9d24a86acb20f6fee01.png",
+    "static/media/pancakes.png": "/static/media/pancakes.869317c447cfd5cf8f1c.png",
+    "static/media/tesla.png": "/static/media/tesla.ac0d8ae1d2acfb539cea.png",
+    "static/media/turkey.png": "/static/media/turkey.d3a31832d8873fc4f92b.png",
+    "static/media/listen.png": "/static/media/listen.fecbdbc21bc8becb6574.png",
+    "static/media/peach.png": "/static/media/peach.1057d183d34535c15174.png",
+    "static/media/rabbitEscape.gif": "/static/media/rabbitEscape.eda8a0c66e28df5d9d9c.gif",
+    "static/media/pick.png": "/static/media/pick.def9428367d5265fa906.png",
+    "static/media/bluetesla.png": "/static/media/bluetesla.8e04bca6db30c590f936.png",
+    "static/media/purpletesla.png": "/static/media/purpletesla.0e04f48fbdd56ad9d029.png",
+    "static/media/redtesla.png": "/static/media/redtesla.96aef0fe63ed174a5333.png",
+    "index.html": "/index.html",
+    "main.dad3994c.css.map": "/static/css/main.dad3994c.css.map",
+    "main.559630d3.js.map": "/static/js/main.559630d3.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dad3994c.css",
+    "static/js/main.559630d3.js"
+  ]
+}
